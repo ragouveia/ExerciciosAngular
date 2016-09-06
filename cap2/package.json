@@ -1,0 +1,11 @@
+{
+  "name": "UlboraCmsMean",
+  "version": "2.0.0",
+  "description": "UlboraCMS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rodrigo Gouveia",
+  "license": "BSD-2-Clause"
+}
