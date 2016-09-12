@@ -1,0 +1,17 @@
+{
+  "name": "Capítulo2",
+  "version": "2.0.0",
+  "description": "Exercício do capítulo 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rodrigo Gouveia",
+  "license": "BSD-2-Clause",
+  "dependencies" : {
+      "karma" : "*"
+
+   }
+
+
+}

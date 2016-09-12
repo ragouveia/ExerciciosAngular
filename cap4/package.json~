@@ -1,0 +1,14 @@
+{
+  "name": "package.json",  
+  "author": "Rodrigo Gouveia",
+  "dependencies" : {
+      "karma" : "*",
+      "karma-chrome-launcher" : "*",
+      "karma-firefox-launcher" : "*",
+      "karma-jasmine" : "*",
+      "karma-junti-reporter" : "*",
+      "karma-coverage" : "*"
+   }
+
+
+}
